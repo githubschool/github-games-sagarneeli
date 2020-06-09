@@ -1,0 +1,5 @@
+* @team-lead
+*.js @front-end-team
+/tests @qa
+/docs @tech-doc-team
+*.md @sagarneeli
